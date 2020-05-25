@@ -145,17 +145,9 @@ A couple of things that might be figured out as we progress along in the prototy
 ![Image of Interaction Flowchart](/journal/Photos/interactionfc.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintesting.jpg" width=350px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintestingcode.PNG" height=350px/>
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
-
-Use subheadings to structure this code. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
-
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
-
-*insert testing code* *insert test with small servo*
-
-Stress Painter took three phases of experimentation. While waiting on the arrival of the flex sensor, I have tested the mechanics of the interface with switches. As there were parts used in the set up that I am unfamiliar with, it took a lot of testing and experimentation to figure out the codes and wirings. While testing the mechanics initially, I have used a 9G Micro Servo Motor. With the envisioned scale of the model, it is predicted that the micro servo would not be able to handle the weight. Hence, I have bought a stronger servo motor as depicted in the photo. Once the flex sensor has arrived, I have integrated the interface into the circuit. It took some experimenting to figure out the best circuit configuration as well as the rotating angles to map the servo blades to. 
+Stress Painter took three phases of experimentation. While waiting on the arrival of the flex sensor, I have tested the pins, codes, servos and the mechanics of the circuit. As there were parts used in the set up that I am unfamiliar with, it took a lot of testing and experimentation to figure out the codes and wirings. While testing the mechanics initially, I have used a 9G Micro Servo Motor. With the envisioned scale of the model, it is predicted that the micro servo would not be able to handle the weight. Hence, I have bought a stronger servo motor as depicted in the photo. Once the flex sensor has arrived, I have integrated the interface into the circuit. It took some experimenting to figure out the best circuit configuration as well as the rotating angles to map the servo blades to. 
 
 *insert photo of bigger motor* *insert photo of bigger motor* *insert photo of bigger motor*
 
