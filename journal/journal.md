@@ -148,6 +148,9 @@ A couple of things that might be figured out as we progress along in the prototy
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintesting.jpg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintestingcode.PNG" height=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/2servocalibration.jpg" width=280px/>
 *Analog pin test and Servo calbibration*
 
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/3servotest.jpg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/3servotestcode.PNG" height=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/4servotowertest.jpg" width=280px/>
+*Servo model test and code*
+
 Stress Painter took three phases of experimentation. While waiting on the arrival of the flex sensor, I have tested the pins, codes, servos and the mechanics of the circuit. As there were parts used in the set up that I am unfamiliar with, it took a lot of testing and experimentation to figure out the codes and wirings. While testing the mechanics initially, I have used a 9G Micro Servo Motor. With the envisioned scale of the model, it is predicted that the micro servo would not be able to handle the weight. Hence, I have bought a stronger servo motor as depicted in the photo. Once the flex sensor has arrived, I have integrated the interface into the circuit. It took some experimenting to figure out the best circuit configuration as well as the rotating angles to map the servo blades to. 
 
 *insert photo of bigger motor* *insert photo of bigger motor* *insert photo of bigger motor*
