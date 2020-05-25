@@ -1,4 +1,4 @@
-# 7515QCA Final project journal: *Insert your name here*
+# 7515QCA Final project journal: *Angela Goh*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
