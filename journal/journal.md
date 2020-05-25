@@ -134,13 +134,10 @@ There will likely by a dozen or so images of the project under construction. The
 
 
 ## Final code ##
-
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-
+![Image of Final Code](/journal/Photos/FinalCodes.png)
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+This concept was developed to capture the artistic representation of the stress and/or distress of an individual. I have identified this opportunity through my partner that suffers from mild anxiety. With this concept, I would like to inspire him to look at things with a 'glass half full'attitude and see that there are beauty in all things. We realised that he is more prone to having an episode when placed under an immense amount of stress, and with that emotion he get figety and uneasy. Hence the decision of creating a stress ball, and in order to withstand the kneading action I have decided to go with a flex sensor to be integrated as the interface. Research and experimentation was the key to creating the test circuit. However, troubleshooting and editing the model as I progress was what makes the prototype successful.
 
 ## Reflection ##
 It has been a very interesting and inspiring project that I never thought to have accomplished. My background in art and design played to my strength when conceptualising the idea and design. I was instantly inspired by the various artistic mechanics and installation concept to as show in the initial reaseach.
