@@ -146,11 +146,11 @@ A couple of things that might be figured out as we progress along in the prototy
 
 ## Process documentation ##
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintesting.jpg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintestingcode.PNG" height=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/2servocalibration.jpg" width=280px/>
-*Analog Pin Test and Servo Calibration*
+*<a href="https://vimeo.com/422423196">Analog Pin Test</a> and <a href="https://vimeo.com/422424079">Servo Calibration</a>*
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/3servotest.jpg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/3servotestcode.PNG" height=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/4servotowertest.jpg" width=280px/>
 <br>
-*Servo Model Test and Code*
+*<a href="https://vimeo.com/422424124">Micro Servo Motor Test(Blue)</a>, <a href="https://vimeo.com/422424166">Servo Motor Test(Black)</a> and Code*
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/6twoservotest.jpeg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/7flexsensortest.jpeg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/5flextestcode.PNG" width=280px/>
 <br>
@@ -160,13 +160,13 @@ A couple of things that might be figured out as we progress along in the prototy
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/8aflexsensorcircuit.jpeg" height=300px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/8bflexsensortest.jpeg" width=300px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/8cflexsensortest.jpeg" width=300px/>
 <br>
-*Flex Sensor and Circuit Test*
+*<a href="https://vimeo.com/422424203">Flex Sensor + Micro Servo Test</a>, <a href="https://vimeo.com/422424262">Flex Sensor + Servo Motor Test</a> and Circuit Test*
 
 After connecting the servo motor in place of the micro servo, more issues had surfaced. As the servo motor required more power to function, I have initially bought an external 5v power breadboard to supply more voltage to the circuit. The servo motor was only working for a short period of time and it mysteriously stopped functioning. After days of troubleshooting, the circuit was still not working, and I have fried my Microbit at that point. (There was tears…) After some consultation with David, we have figured out two major issue. The external 5v circuit breadboard had created a broken circuit on the breadboard that we still can’t figure out why. And that I had inherited a bunch of broken wires which was why it was hard to isolate the problem. 
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/9verticalmechanic.jpeg" width=400px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/10verticalmechanic.jpeg" width=400px/>
 <br>
-*Recreating Scott Russell Mechanicsm*
+*<a href="https://vimeo.com/422424325">Recreating Scott Russell Mechanicsm</a>*
 
 The next phase of experimentation was figuring out materials and a suitable mechanic for the servo motor to control. Due to the restrictions, I am unable to use the laser cutter in the university to cut wood materials. In this case, I have decided to use cheap and malleable materials—crafting popsicle sticks, balsa wood, foam boards and clay—to build the model. In the envisioned concept, the model needed an upward force to move the canvas base. After researching on various vertical mechanic, I have decided to adopt the <a href="https://www.youtube.com/watch?v=IIr1PM-aCYA">*Scott Russell Mechanism*</a>. The *Scott Russell Mechanism* gives a theoretically linear motion by using a linkage form with three portions of the links all equal and a rolling or sliding connection, creating a right-angle change of motion.
 
