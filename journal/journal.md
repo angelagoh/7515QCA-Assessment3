@@ -5,7 +5,57 @@
 <!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
 
 ## Related projects ##
-<!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
+### Related project 1 ###
+*Archive of Mind* by Kimsooja
+
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Archiveofmind.jpg" width=800/>
+
+Kimsooja (2016). Archive of Mind. Accessed April 19, 2020. http://www.kimsooja.com/projects_2016_MMCA_Archive-of-Mind.html#
+
+Archive of Mind is a participatory installation that builds over the course of the exhibition. Through the collaboration of audience to form a lump of clay into spheres at a 19-meter-long elliptical wooden table, which doubles as a canvas.
+
+### Related project 2 ###
+*ADA* by Karina Smigla-Bobinski
+
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/ADA.jpg" width=800/>
+
+Karina Smigla-Bobinski (2010). ADA. Accessed April 19, 2020. https://www.smigla-bobinski.com/english/works/ADA/
+
+ADA is a giant interactive analogue installation, featuring a huge helium balloon studded with charcoal spikes, which create patterns on the surrounding white walls.
+
+### Related project 3 ###
+*Freeze* by Aharon Ozery
+
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Freeze.jpg" width=800/>
+
+Aharon Ozery (2012). Freeze. Accessed April 19, 2020. http://www.art.org.il/5/artist/aharon-ozery?en
+
+
+### Related project 4 ###
+*Four Cable Drawing Machine* by David Bynoe
+
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/fourcabledrawingmachine.jpg" width=800/>
+
+David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://dbynoe.blogspot.com/2013/12/four-cable-drawing-machine.html
+
+
+### Related project 5 ###
+*CYMATICS: SCIENCE VS MUSIC* by Nigel Stanford
+
+<a href="https://www.youtube.com/watch?v=Q3oItpVa9fs"><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Cymatics.PNG" width=800/></a>
+
+https://www.youtube.com/watch?v=Q3oItpVa9fs
+
+Certain frequencies vibrate the metal plate in such a way that it creates areas where there is no vibration. The sand and water vibrates and creates beautiful geometric patterns and effects. As the frequency increases in pitch the patterns become more complex.
+
+### Related project 6 ###
+*Particle Flow* by Neoanalog
+
+<a href="https://vimeo.com/307476021"><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/ParticleFlow.PNG" width=800/></a>
+
+https://vimeo.com/307476021
+
+Granules are driven by gravity and topography forming an analogue particle system. A moving slanted plane and a grid of motorized stamps control the elements to form infinite variations of behaviors and patterns.
 
 ### *Insert name of related project here* ###
 
