@@ -119,6 +119,28 @@ This fidget cube controls the x and y axis of the pen plotter. The 6 faces of th
 ### Final design concept: *Stress Painter* ###
 ![Image of Design Concept Sketch 4](/journal/Photos/DCS4.jpg)
 
+**Initial concept: Heart Rate Sensors**
+
+A heart rate controlled drawing machine that translate the heart rate by plotting pen to paper. The purpose of this design concept is to capture and artistic representation of stress and distress. 
+
+After some research, it might be too hard for me to use heart rate/pulse as the chosen biofeedback. The parts required to make this concept work requires Arduino and would require some time to learn (personally). I have decided that it might be better to come up with an alternative rather than learning a whole new program. 
+
+**Current concept: Pressure Sensor**
+
+Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the servo motors with extensions. When the interface is held and/or squeezed, the data will be translated to the servo motors to extend and retract. This extension motion will push the suspended drawing platform allowing the painting ball to move around the canvas organically. The purpose of this design concept is to capture the artistic representation of stress and distress of the user, hence the stress ball interface.
+
+**Main Components (required/as thought of in ideation):**
+* Motors: <a href="https://www.jaycar.com.au/servo-motor-standard-6-volt-with-metal-gear-11kg/p/YM2765">Servo Motor</a> | <a href="">Stepper Motor</a>
+*	Different variation of drawing based on the different range of pressure
+*	Current medium is paint and paper. (Paint covered ball) 
+*	Shape of the stress “ball” to be determined (based on what works best with the chosen pressure sensor)
+
+A couple of things that might be figured out as we progress along in the prototyping phase. There is a variety of ways to measure the pressure (will have to determine which is the best way, to be updated):
+* Plotting the analog pin pressure-sensitive sensor 
+* Flex sensor 
+* Thin-Film Pressure Sensor 
+* Force Sensitive Resistor
+
 ### Interaction flowchart ###
 ![Image of Interaction Flowchart](/journal/Photos/interactionfc.png)
 
@@ -131,7 +153,28 @@ Use subheadings to structure this code. See https://guides.github.com/features/m
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
+*insert testing code* *insert test with small servo*
 
+Stress Painter took three phases of experimentation. While waiting on the arrival of the flex sensor, I have tested the mechanics of the interface with switches. As there were parts used in the set up that I am unfamiliar with, it took a lot of testing and experimentation to figure out the codes and wirings. While testing the mechanics initially, I have used a 9G Micro Servo Motor. With the envisioned scale of the model, it is predicted that the micro servo would not be able to handle the weight. Hence, I have bought a stronger servo motor as depicted in the photo. Once the flex sensor has arrived, I have integrated the interface into the circuit. It took some experimenting to figure out the best circuit configuration as well as the rotating angles to map the servo blades to. 
+
+*insert photo of bigger motor* *insert photo of bigger motor* *insert photo of bigger motor*
+
+After connecting the servo motor in place of the micro servo, more issues had surfaced. As the servo motor required more power to function, I have initially bought an external 5v power breadboard to supply more voltage to the circuit. The servo motor was only working for a short period of time and it mysteriously stopped functioning. After days of troubleshooting, the circuit was still not working, and I have fried my Microbit at that point. (There was tears…) After some consultation with David, we have figured out two major issue. The external 5v circuit breadboard had created a broken circuit on the breadboard that we still can’t figure out why. And that I had inherited a bunch of broken wires which was why it was hard to isolate the problem. 
+
+*insert photos of research* *insert photos of mechanic* *insert photos of mechanic*
+
+The next phase of experimentation was figuring out materials and a suitable mechanic for the servo motor to control. Due to the restrictions, I am unable to use the laser cutter in the university to cut wood materials. In this case, I have decided to use cheap and malleable materials—crafting popsicle sticks, balsa wood, foam boards and clay—to build the model. In the envisioned concept, the model needed an upward force to move the canvas base. After researching on various vertical mechanic, I have decided to adopt the Scott Russell Mechanism. The Scott Russell Mechanism gives a theoretically linear motion by using a linkage form with three portions of the links all equal and a rolling or sliding connection, creating a right-angle change of motion.
+
+*insert photo of initial mechanic* *insert photo of finalised mechanic*
+
+Crafted from a pack of popsicle sticks, the first frame was too weak and hence the decision was made to double the framework in order to support the weight of the vertical prongs. 
+
+*insert final model* *insert final model* *insert final model*
+*insert video*
+
+With the uncertainty of the circuit and the instability of the connection of the flex sensor, troubleshooting as we fit every piece together was the last phase of experimentation. There were a lot of reinforcements made to the model as the materials were malleable but not sturdy enough in its earlier state to support the weight and force created by the rotating servo motor. The strength of the servo had to be weighed down in order to counter the force of the rotating motor (I have sacrificed some Jenga blocks). I have hot glued the mechanics to the servo blade to ensure secure movement, however, the additional weight and force has frozen the motor. It was then that I decided to attach the mechanics by woven wires, releasing the extra tension created by the hot glue. As the flex sensor is being bent within the interface the servo motor rotates about its position within the mapped angles, triggering the crafted Scott Russell Mechanics to enable the vertical movement of the prods. This movement then triggers the canvas base and paint-covered ball, allowing it to organically capture the “stress movements”. 
+
+*insert drawing* *insert drawing*
 
 ## Final code ##
 ![Image of Final Code](/journal/Photos/FinalCodes.png)
