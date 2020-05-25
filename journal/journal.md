@@ -85,7 +85,7 @@ An artistic representation of stress and destress as recorded by the biometric d
 
 ### Design ideation ###
 ### Design concept 1: Emotional Cube ###
-![Image of Design Concept Sketch 1](/Images/DCS1.jpg)
+![Image of Design Concept Sketch 1](/journal/Photos/DCS1.jpg)
 
 *Drawing is not propotionate to size, the cube propose in the ideation process is visualised to be at least 300x300x300 (mm).
 
@@ -102,7 +102,7 @@ An LED cube with heart rate sensors on wristbands. This is an LED cube that vibr
 A heart rate sensing wristband (Wristband) and a receiver inflatable wrist cuff (Wrist Cuff). The inflatable wrist cuff is design to tighten with when the pulse sensing wristband reads an increased pulse rate from the resting heart rate. The higher the read, the tighter the cuffs. The purpose of this tension wristband is to indicate body distress of the wearer of the wristband. This design concept would be a tacticle representation of distress. 
 
 ### Design Concept 3: Activation Fidget Cube ###
-![Image of Design Concept Sketch 3](/Images/DCS3.jpg)
+![Image of Design Concept Sketch 3](/journal/Photos/DCS3.jpg)
 
 *Drawing is not propotionate to size, the fidget cube propose in the ideation process is visualised to be at least 30x30x30 (mm). Actual interface design to be determined.
 
@@ -116,13 +116,13 @@ This fidget cube controls the x and y axis of the pen plotter. The 6 faces of th
 * Pen Plotter: <a href="https://core-electronics.com.au/makeblock-xy-plotter-robot-kit-electronic-version.html">Pen Plotter</a> | <a href="https://www.youtube.com/watch?v=xnZI0ovzb4c">DIY Pen Plotter</a>
 
 
-### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+### Final design concept: *Stress Painter* ###
+![Image of Design Concept Sketch 4](/journal/Photos/DCS4.jpg)
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image of Interaction Flowchart](/journal/Photos/interactionfc.png)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
