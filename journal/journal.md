@@ -146,17 +146,21 @@ A couple of things that might be figured out as we progress along in the prototy
 
 ## Process documentation ##
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintesting.jpg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/1analogpintestingcode.PNG" height=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/2servocalibration.jpg" width=280px/>
-*Analog pin test and Servo calbibration*
+*Analog Pin Test and Servo Calibration*
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/3servotest.jpg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/3servotestcode.PNG" height=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/4servotowertest.jpg" width=280px/>
 <br>
-*Servo model test and code*
+*Servo Model Test and Code*
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/6twoservotest.jpeg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/7flexsensortest.jpeg" width=280px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/5flextestcode.PNG" width=280px/>
 <br>
 *Flex Sensor and Servo Test + Flex Sensor code to read value in order to map low and high values*
 
 Stress Painter took three phases of experimentation. While waiting on the arrival of the flex sensor, I have tested the pins, codes, servos and the mechanics of the circuit. As there were parts used in the set up that I am unfamiliar with, it took a lot of testing and experimentation to figure out the codes and wirings. While testing the mechanics initially, I have used a 9G Micro Servo Motor. With the envisioned scale of the model, it is predicted that the micro servo would not be able to handle the weight. Hence, I have bought a stronger servo motor as depicted in the photo. Once the flex sensor has arrived, I have integrated the interface into the circuit. It took some experimenting to figure out the best circuit configuration as well as the rotating angles to map the servo blades to. 
+
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/8aflexsensorcircuit.jpeg" width=290px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/8bflexsensortest.jpeg" width=290px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/8cflexsensortest.jpeg" width=290px/>
+<br>
+*Flex Sensor and Circuit Test*
 
 After connecting the servo motor in place of the micro servo, more issues had surfaced. As the servo motor required more power to function, I have initially bought an external 5v power breadboard to supply more voltage to the circuit. The servo motor was only working for a short period of time and it mysteriously stopped functioning. After days of troubleshooting, the circuit was still not working, and I have fried my Microbit at that point. (There was tears…) After some consultation with David, we have figured out two major issue. The external 5v circuit breadboard had created a broken circuit on the breadboard that we still can’t figure out why. And that I had inherited a bunch of broken wires which was why it was hard to isolate the problem. 
 
