@@ -120,8 +120,6 @@ This fidget cube controls the x and y axis of the pen plotter. The 6 faces of th
 ![Image of Design Concept Sketch 4](/journal/Photos/DCS4.jpg)
 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
-
 ![Image of Interaction Flowchart](/journal/Photos/interactionfc.png)
 
 ## Process documentation ##
@@ -133,6 +131,8 @@ Use subheadings to structure this code. See https://guides.github.com/features/m
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
+
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
@@ -143,11 +143,8 @@ There will likely by a dozen or so images of the project under construction. The
 
 
 ## Reflection ##
+It has been a very interesting and inspiring project that I never thought to have accomplished. My background in art and design played to my strength when conceptualising the idea and design. I was instantly inspired by the various artistic mechanics and installation concept to as show in the initial reaseach.
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
+The biggest difficulty that I had when making this prototype was that I had zero knowledge on codes and mechanics. This meant that I had to do a lot of research on both aspects of the project, as well as the additional long hours of experimenting to achieve the final outcome of the project. Youtube was the most used platform for me to listen and see how different people connect the different types of parts and circuits together. However, one of the issue that I have noticed was that we have very limited tutorial content when it comes to Microbit as compared to its counterparts such as Arduino or RasberryPi. It took a lot of trial and error in codes and circuit connection in order for the flex sensor to work with the servo motor. It was also interesting to learn that I had fried the MicroBit simply because i have connected the live and signal wires incorrectly. As mentioned in the documentation process above, I had inherited a bunch of broken wires. For future reference, it would be best for me to do a simple LED light test with all my wires prior to starting any project. 
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
-
-What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
-
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+*Stress Painter* was conceptualised to capture the artistic representation of stress as felt by an individual. I believe that the "painting" mechanics in my project are the novel components. I would like to further develop this design by improving on the material choices. The integration of stronger, sturdier materials would allow for a bigger build and I can further experiment with the addition of various elements such as; shape and number of the painting medium, colour choices, as well as the material of the canvas base. All in all, I believe that I have crafted this prototype to the best of my abilities given the current circumstances and I would like to be able to develop this project with right materials when the time comes.
