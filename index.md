@@ -7,6 +7,9 @@
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5192.jpeg">
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/14interfacewithmechanics.jpg">
 
+### Video Link ###
+<a href="https://vimeo.com/423901988">Stress Painter (Sort of working)</a>
+
 ### Journal ###
 
 <!--- The following link will direct to your process and reflection journal, which will be held in the file `journal.md` in the folder called `journal`. This link should not be changed. --->
