@@ -5,6 +5,7 @@
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_9953.jpeg">
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5189.jpeg">
 <img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5192.jpeg">
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/14interfacewithmechanics.jpg">
 
 ### Journal ###
 
