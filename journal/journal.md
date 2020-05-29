@@ -174,15 +174,15 @@ The next phase of experimentation was figuring out materials and a suitable mech
 
 Crafted from a pack of popsicle sticks, the first frame was too weak and hence the decision was made to double the framework in order to support the weight of the vertical prongs. 
 
-<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/13interfacetesting.jpg" width=290px><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/14interfacewithmechanics.jpg" width=290px>
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/13interfacetesting.jpg" width=400px><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/14interfacewithmechanics.jpg" width=400px>
 
 As mentioned in the design concept above, the interface for this project was a kneading(stress) ball. Stress balls can simply be made with cornflour, water and a balloon, however in order to achieve the right consistency a fair bit of experimentation was required to achieve the perfect viscosity. The mixture needed to “feel right” and it needed to have the right consistency to support the flex sensor within. Preference to the measurement of mixture can vary individually however I have gone with 1 cup of cornflour to 1/4 cup of warm water.
 
-<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5189.jpeg" width=290px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5192.jpeg" width=290px/>
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5189.jpeg" width=400px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5192.jpeg" width=400px/>
 
 With the uncertainty of the circuit and the instability of the connection of the flex sensor, troubleshooting as we fit every piece together was the last phase of experimentation. There were a lot of reinforcements made to the model as the materials were malleable but not sturdy enough in its earlier state to support the weight and force created by the rotating servo motor. The strength of the servo had to be weighed down in order to counter the force of the rotating motor (I have sacrificed some Jenga blocks). I have hot glued the mechanics to the servo blade to ensure secure movement, however, the additional weight and force has frozen the motor. It was then that I decided to attach the mechanics by woven wires, releasing the extra tension created by the hot glue. As the flex sensor is being bent within the interface the servo motor rotates about its position within the mapped angles, triggering the crafted Scott Russell Mechanics to enable the vertical movement of the prods. This movement then triggers the canvas base and paint-covered ball, allowing it to organically capture the “stress movements”. 
 
-<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5199.jpg" width=290px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_9953.jpeg" width=290px/>
+<img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_5199.jpg" width=400px/><img src="https://github.com/angelagoh/7515QCA-Assessment3/blob/master/journal/Photos/IMG_9953.jpeg" width=400px/>
 
 ## Final code ##
 ![Image of Final Code](/journal/Photos/FinalCodes.png)
